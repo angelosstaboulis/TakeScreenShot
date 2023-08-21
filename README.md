@@ -1,5 +1,6 @@
 # TakeScreenShot
 I made this simple Mac OS app to show how someone can take screenshot
 
-![screenshot](https://github.com/angelosstaboulis/TakeScreenShot/assets/79055304/cd39bd30-15aa-4866-8360-e6d78ee14e63)
+![Screenshot 2023-08-21 at 3 26 08 PM](https://github.com/angelosstaboulis/TakeScreenShot/assets/79055304/387feaf7-a8d1-413c-9623-00b870c5f8c3)
+
 
